@@ -78,7 +78,6 @@ To gain comprehensive insights into Uber fare patterns, ride timings, and operat
 <img width="865" height="461" alt="dashboard" src="https://github.com/user-attachments/assets/cadb1b93-8513-494c-ba66-8a79fde234e8" />
 
 <img width="1013" height="476" alt="ccccc" src="https://github.com/user-attachments/assets/8ad7f23c-6297-437c-8f4d-30477f673af7" />
-<img width="968" height="476" alt="Capture1" src="https://github.com/user-attachments/assets/f0469435-2aa6-46bd-8ee1-01e908d4cf90" />
 <img width="1056" height="691" alt="sdsd" src="https://github.com/user-attachments/assets/09a2ad16-2a1a-41c8-93eb-a137a6f3a17a" />
 <img width="1040" height="698" alt="linechart" src="https://github.com/user-attachments/assets/12f6b27a-ac2c-47fc-8966-33e1d042b2b3" />
 <img width="1032" height="692" alt="dot" src="https://github.com/user-attachments/assets/745a6990-6727-41c5-94dd-5d6ad68effcd" />
